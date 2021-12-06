@@ -1,7 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <Python.h>
-#include <floatobject.h>
+#include "Python.h"
+
 
 /**
  * print_python_float - prints some info about python floats
