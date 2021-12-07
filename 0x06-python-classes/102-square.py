@@ -48,4 +48,3 @@ class Square:
 
     def __ge__(self, other):
         return self.__size >= other.size
-

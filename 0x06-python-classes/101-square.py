@@ -68,4 +68,3 @@ class Square:
 
     def my_print(self):
         print(self.get_str())
-
