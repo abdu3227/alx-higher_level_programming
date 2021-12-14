@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Locked class Module """
+"""Locked class Module"""
 
 class LockedClass:
     """Locked class using slots to save memory cost"""
