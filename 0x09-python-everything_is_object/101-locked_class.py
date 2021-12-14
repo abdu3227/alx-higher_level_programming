@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""Locked class Module"""
+"""Locked class module"""
+
 
 class LockedClass:
-    """Locked class using slots to save memory cost"""
+    """Locked class using slots to save memory"""
     __slots__ = "first_name",
