@@ -22,4 +22,3 @@ def re_peak(int_list, start, end):
         return re_peak(int_list, mid + 1, end)
     else:
         return re_peak(int_list, 0, mid - 1)
-
